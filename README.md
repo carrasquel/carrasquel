@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [ThePythonTutor][website]
+### Hi there, I'm Nelson - aka [ThePythonTutor][website]
 
 ## I'm a Chemical Engineer, Teacher and Open Source Software Developer!
 - I'm currently working on a [VS Code Course][website]!
