@@ -1,10 +1,10 @@
-### Hi there, I'm Jesse - aka [ThePythonTutor][website] ðŸ‘‹
+### Hi there, I'm Jesse - aka [ThePythonTutor][website]
 
 ## I'm a Chemical Engineer, Teacher and Open Source Software Developer!
-- ðŸ”­ Iâ€™m currently working on a [VS Code Course][website]!
-- âš¡ Author of [Rackio Framework][rackio]
-- âš¡ Author of [Tulipan.js Framework][tulipan]
-- ðŸ¥… 2020 Goals: Contribute to Rackio and Tulipan
+- I'm currently working on a [VS Code Course][website]!
+- Author of [Rackio Framework][rackio]
+- Author of [Tulipan.js Framework][tulipan]
+- 2020 Goals: Contribute to Rackio and Tulipan
 
 
 ### Connect with me:
