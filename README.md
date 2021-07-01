@@ -37,9 +37,9 @@
 
 <img align="left" alt="carrasquel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carrasquel&show_icons=true&hide_border=true" />
 
-[website]: https://pythontales.blogspot.com/
+[website]: https://www.thepythontutor.tech/
 [twitter]: https://twitter.com/thepythontutor
-[instagram]: https://instagram.com/pythontutor
+[instagram]: https://instagram.com/thepythontutor.tech
 [linkedin]: https://linkedin.com/in/thepythontutor
 [rackio]: https://github.com/rack-io/rackio-framework
 [tulipan]: https://github.com/carrasquel/tulipan
