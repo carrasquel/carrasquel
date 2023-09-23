@@ -4,7 +4,7 @@
 - I'm currently working on a [VS Code Course][website]!
 - Author of [Rackio Framework][rackio]
 - Author of [Tulipan.js Framework][tulipan]
-- 2020 Goals: Contribute to Rackio and Tulipan
+- 2023 Goals: Contribute to Rackio and Tulipan
 
 
 ### Connect with me:
@@ -37,7 +37,7 @@
 
 <img align="left" alt="carrasquel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carrasquel&show_icons=true&hide_border=true" />
 
-[website]: https://www.thepythontutor.tech/
+[website]: https://thepythontutor.blogspot.com/
 [twitter]: https://twitter.com/thepythontutor
 [instagram]: https://instagram.com/thepythontutor.tech
 [linkedin]: https://linkedin.com/in/thepythontutor
